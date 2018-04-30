@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "746815892274",
+    "firebase_url": "https://marrychat-e82d1.firebaseio.com",
+    "project_id": "marrychat-e82d1",
+    "storage_bucket": "marrychat-e82d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746815892274:android:c2e4f7040439397c",
+        "android_client_info": {
+          "package_name": "mohamed.com.marrychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746815892274-pf1kbdhaumrkc5fd7j6vrsoqmteptplk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mohamed.com.marrychat",
+            "certificate_hash": "6bc472352b69d465f06bfde40cf4182f4afbf17c"
+          }
+        },
+        {
+          "client_id": "746815892274-r7pemtcue6j5jisj7d1gah10em9clvq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaMFZxnZsEtqHd16QKm_VZ-SD7wki1EYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746815892274-r7pemtcue6j5jisj7d1gah10em9clvq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
